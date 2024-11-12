@@ -21,7 +21,7 @@ PatiVakti, evcil hayvan sahiplerinin dostlarının sağlık durumlarını ve ran
 ## 💻 Kurulum
 
 ```bash
-git clone https://github.com/kullaniciadi/pativakti.git
+git clone https://github.com/enscskn/pativakti.git
 cd pativakti
 npm install
 npm run dev
