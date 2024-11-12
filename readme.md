@@ -31,7 +31,7 @@ npm run dev
 ## 📱 Ekran Görüntüleri
 
 [![Image](https://i.hizliresim.com/3o83azk.png)](https://hizliresim.com/3o83azk)
-[Live](https://pati-vakti.vercel.app/)
+## [Live](https://pati-vakti.vercel.app/)
 
 ## 🤝 Katkıda Bulun!
 
